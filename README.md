@@ -9,5 +9,5 @@ I'm learning how to use github through datacamp course.
 #### Heading 4
 [Link to my LinkedIn profile] (https://www.linkedin.com/in/avvarimanju/)
 ##### Heading 5
-![This is an image] (https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.youtube.com%2Fvi%2FLjj1wGFJqPY%2Fmaxresdefault.jpg)
+![This is an image] ([https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.youtube.com%2Fvi%2FLjj1wGFJqPY%2Fmaxresdefault.jpg](https://www.gettyimages.in/detail/news-photo/view-of-the-idol-of-the-hindu-god-ram-after-the-news-photo/1954010397))
 ###### Heading 6
